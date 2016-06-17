@@ -33,4 +33,4 @@ if __name__ == '__main__':
 #data = """G1 Z0.200 F7200.000
 #G1 X75.572 Y93.157 F7200.000
 #"""
-#shift_multiple(data, 0, 0, 1, 1, 4.5, 4.5)
+#shift_multiple(data, 0, 0, 1, 1, 4.5, 4.5) # <x-offset-1> <y-offset-1> ... <x-offset-n> <y-offset-n>
